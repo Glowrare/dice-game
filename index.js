@@ -1,6 +1,7 @@
 let randomNumber1 = Math.floor(Math.random() * 6) + 1;
-let randomNumber2 = Math.floor(Math.random() * 6) + 1;
 let dicePicker1 = "dice" + randomNumber1 + ".png";
+
+let randomNumber2 = Math.floor(Math.random() * 6) + 1;
 let dicePicker2 = "dice" + randomNumber2 + ".png";
 
 document
